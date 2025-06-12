@@ -1,0 +1,3 @@
+# allow to search through command history using what is already written in the search
+"\e[A": history-search-backward
+"\e[B": history-search-forward

@@ -1,0 +1,2 @@
+! Set DPI for HiDPI 4K display
+Xft.dpi: 192
